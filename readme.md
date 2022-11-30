@@ -1,5 +1,13 @@
+## About
 Here we harness the power of Graph Neural Networks (GNNs) for solving the problem of Fake News Detection. We utilise information regarding both the spread of fake news over twitter via propogation graphs and the user preferences via past tweets to make a prediction about the veracity of a web article.
 
+This fake news detection model was built as part of the coursework for CZ4032: Data Analytics and Mining. 
+
+We also submitted this project to the Deep Learning Hackathon organised by MLDA@NTU. My team was shortlisted for the finals (15 out over 150 teams), and we were also awarded 'Most Innovative Use of NLP" award! You can visit this repository, for more information on our hackathon submission: https://github.com/DChops/PayBack
+
+This project was exectued with 4 other group members: Dhruv, Rahul, Pratham and Louis.
+
+## Models
 There are 6 ipynb notebooks
 
 1. Best_model_Politifact_default_split (splits the politifact dataset into 20:10:70) 
